@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usberiont.github.io/sitemap
+Sitemap: https://usberiont.github.io/app/sitemap
+Sitemap: https://usberiont.github.io/assets/sitemap
+Sitemap: https://usberiont.github.io/css/sitemap
+Sitemap: https://usberiont.github.io/includes/sitemap
+Sitemap: https://usberiont.github.io/item/sitemap
+Sitemap: https://usberiont.github.io/src/sitemap
